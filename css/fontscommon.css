@@ -1,0 +1,78 @@
+
+
+/*fonts*/
+@font-face
+{
+    font-family: "Sosa";
+    src: url('../fonts/sosa-regular-webfont.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "ArimoBold";
+    src: url('../fonts/Arimo-Bold.ttf') format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "FjallaOne";
+    src: url('../fonts/FjallaOne-Regular.ttf') format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "BaBasNeue";
+    src:  url('../fonts/babas/ttf/BebasNeue Bold.ttf') format("truetype"),
+    url('../fonts/babas/svg/BebasNeue Bold.svg#babas_neue_bold') format("svg");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "BaBasNeue";
+    src: url('../fonts/babas/ttf/BebasNeue Book.ttf') format("truetype"),
+    url('../fonts/babas/svg/BebasNeue Book.svg#babas_neue_book') format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "BaBasNeue";
+    src: url('../fonts/babas/ttf/BebasNeue Light.ttf') format("truetype"), 
+    url('../fonts/babas/svg/BebasNeue Light.svg#babas_neue_light') format("svg");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "BaBasNeue";
+    src: url('../fonts/babas/ttf/BebasNeue Regular.ttf') format("truetype"),
+    url('../fonts/babas/svg/BebasNeue Regular.svg#babas_neue_regular') format("svg");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "BaBasNeue";
+    src: url('../fonts/babas/ttf/BebasNeue Thin.ttf') format("truetype"),
+     url('../fonts/babas/svg/BebasNeue Thin.svg#babas_neue_thin') format("svg");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "IntroCond";
+    src: url('../fonts/introCond/Intro Cond Light Free.otf') format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "IntroCond";
+    src: url('../fonts/introCond/Intro Cond Black Free.otf') format("opentype");
+    font-weight: 700;
+    font-style: normal;
+}
+
